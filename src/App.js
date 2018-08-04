@@ -77,8 +77,7 @@ class App extends Component {
         />
 
         <Title>
-          Try to click on each character, but don't hit any duplicates, or
-          we'll release the hounds!!!
+        Click on an image to earn points, but don't click on any more than once!
         </Title>
 
         <Container>
